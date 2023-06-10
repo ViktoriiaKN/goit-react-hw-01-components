@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ContainerWrapper = styled.div`
-  width: 1200px;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: center;
